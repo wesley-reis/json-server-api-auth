@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "email": "heitor1@gmail.com.br",
+      "password": "$2a$10$RPYsGdm45pdjP97bSaRWPOQKWqGIKKHxju260krbLLDOIyfLHw3ky",
+      "name": "Heitor",
+      "sobrenome": "westermann dos Reis",
+      "idade": 8,
+      "id": 2
+    }
+  ],
+  "routes": [
+    {
+      "userId": 2,
+      "partida": "Belo Horizonte, Floramar",
+      "destino": "Lagoa Santa",
+      "id": 1
+    },
+    {
+      "userId": 2,
+      "partida": "Belo Horizonte",
+      "destino": "Lagoa Santa",
+      "id": 2
+    },
+    {
+      "userId": 3,
+      "partida": "Sete Lagoas",
+      "destino": "Vespasiano",
+      "id": 3
+    },
+    {
+      "userId": 2,
+      "partida": "Sete Lagoas",
+      "destino": "Vespasiano",
+      "id": 4
+    }
+  ]
+}

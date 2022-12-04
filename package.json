@@ -1,0 +1,16 @@
+{
+  "name": "json-server-api-auth",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "serve": "json-server-auth db.json -r routes.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "body-parser": "^1.20.1",
+    "json-server": "^0.17.1",
+    "json-server-auth": "^2.1.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
