@@ -1,11 +1,11 @@
 {
   "name": "json-server-api-auth",
   "version": "1.0.0",
-  "description": "",
+  "description": "Api de autenticação com json server",
   "scripts": {
-    "serve": "json-server-auth db.json -r routes.json"
+    "serve": "json-server-auth db.json -r routes.json --middlewares ./appAuth.js"
   },
-  "author": "",
+  "author": "Wesley Reis",
   "license": "ISC",
   "devDependencies": {
     "body-parser": "^1.20.1",

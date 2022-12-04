@@ -12,21 +12,9 @@
   "routes": [
     {
       "userId": 2,
-      "partida": "Belo Horizonte, Floramar",
-      "destino": "Lagoa Santa",
+      "partida": "Joaqui Nabuco",
+      "destino": "Belo Horizonte",
       "id": 1
-    },
-    {
-      "userId": 2,
-      "partida": "Belo Horizonte",
-      "destino": "Lagoa Santa",
-      "id": 2
-    },
-    {
-      "userId": 3,
-      "partida": "Sete Lagoas",
-      "destino": "Vespasiano",
-      "id": 3
     },
     {
       "userId": 2,
